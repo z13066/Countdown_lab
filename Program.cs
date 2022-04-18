@@ -14,7 +14,6 @@ namespace pdb2_2
             var sub1 = new Subscriber();
             var sub2 = new Subscriber2();
             var sub3 = new Subscriber3();
-            //pub.Handler += sub1.OnSubscribe(6)
             pub.Handler += new Countdown.EvHandler(sub1.OnSubscribe);
             pub.Handler += new Countdown.EvHandler(sub2.OnSubscribe);
             pub.Handler += new Countdown.EvHandler(sub3.OnSubscribe);
