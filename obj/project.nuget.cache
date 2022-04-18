@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MMA3sWP96r1LKGGW7uSH5yny+f6OpfRC8/VdgZRFv1YliEYYW7mn/kYktxreAewT3E4kgSkw8zoZMFYWSEKKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алексей\\source\\repos\\pdb2_2\\pdb2_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алексей\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Алексей\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
